@@ -1,0 +1,134 @@
+*
+{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin: 0%;
+  max-width: 100%;
+}
+
+.bannertopo
+{
+  background-color: #1C001B;
+}
+
+header
+{
+  padding-top: 6px;
+  padding-left: 27px;
+  text-align: center;
+  background-color: #3F0061;
+  width: auto;
+  height: 32px;
+}
+
+a
+{
+  text-decoration: none;
+  color: aliceblue;
+  font-size: larger;
+}
+
+span
+{
+  margin-right: 50px;
+}
+
+.container
+{
+  padding-top: 20px;
+  padding-bottom: 50px;
+  color: #ffffff;
+  background-color: #020524;
+  width: auto;
+  height:auto;
+}
+
+
+footer
+{
+  text-align: center;
+  padding-top: 20px;
+  width: auto;
+  height: 210px;
+  background-color: #910127;
+}
+
+h3
+{
+  margin-top: 20px;
+  margin-bottom: 9px;
+}
+
+h4
+{
+  text-align: center;
+  color: #ffffff;
+  font-size: 12px;
+  margin-bottom: 2px;
+}
+
+ul
+{
+  margin-left: 520px;
+  margin-top: 15px;
+}
+
+h1
+{
+  text-align: center;
+  color: #ffffff;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h6
+{
+  margin-top: 20px;
+  font-size: 25px;
+}
+
+p {
+  font-size: 16px;
+  padding-top: 5px;
+  padding-bottom: 10PX;
+}
+
+dl {
+  display: flex;
+}
+
+button {
+  padding: 2px 8px 5px 8px;
+  font-size: 20px;
+  background-color: #130045;
+  border: solid #130045;
+  border-radius: 15px;
+  margin-bottom: 20px;
+}
+
+.noticias {
+  margin-left: 190px;
+  padding-top: 20px;
+  padding-left: 50px;
+  font-size: 15px;
+  background-color: #910127;
+  border-radius: 15px;
+  text-align: justify;
+  border: dotted wheat;
+  width: 1100px;
+  height: 1130px;
+}
+
+.detetive
+{
+  margin-left: 350px;
+}
+
+.noticias a{
+  text-decoration: none;
+  font-size: 13px;
+}
